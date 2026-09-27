@@ -4,12 +4,13 @@ An intelligent personal finance assistant that automates transaction categorizat
 
 ---
 
+
 ## Overview
 
 Traditional expense tracking tools rely on static keyword matching or manual labeling. This project implements an agentic workflow that:
 1. Ingests raw transaction records (CSV).
 2. Deduplicates and categorizes merchants in batched requests using Gemini (`gemini-3.5-flash-lite`).
-3. Persists records into a structured local SQLite database.
+3. Persists records into a structured local SQLite database (`expenses.db`).
 4. Translates arbitrary plain-English questions into valid, read-only SQL queries, executes them, and returns conversational summaries alongside execution traces.
 
 ---
