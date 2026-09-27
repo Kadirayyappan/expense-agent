@@ -3,7 +3,11 @@
 An intelligent personal finance assistant that automates transaction categorization and enables natural-language financial queries using a Text-to-SQL agent powered by Google Gemini and SQLite.
 
 ---
+<h2>Output Preview</h2>
 
+<p align="center">
+  <img src="expense-agent/files/ouput.png" alt="VAULT AI Expense Tracker Dashboard" width="90%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+</p>
 
 ## Overview
 
