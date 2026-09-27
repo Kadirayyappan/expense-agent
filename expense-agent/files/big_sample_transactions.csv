@@ -1,0 +1,501 @@
+date,merchant,amount
+2026-01-01,Water Bill,244.8
+2026-01-01,Ola,286.44
+2026-01-01,Reliance Trends,3857.22
+2026-01-02,Starbucks,766.73
+2026-01-03,Netflix,967.34
+2026-01-04,Flipkart,5675.67
+2026-01-04,Spotify,941.15
+2026-01-05,Metro Card Recharge,597.85
+2026-01-05,Reliance Trends,2605.22
+2026-01-05,Broadband Bill,1990.12
+2026-01-06,Amazon,5549.17
+2026-01-07,Water Bill,1301.04
+2026-01-09,Swiggy,183.94
+2026-01-09,Gas Cylinder Booking,756.46
+2026-01-10,Uber,524.16
+2026-01-10,Dominos,530.02
+2026-01-11,Hotstar,549.4
+2026-01-11,Donation,2482.12
+2026-01-11,IRCTC,73.94
+2026-01-13,Local Tiffin Center,721.56
+2026-01-14,Broadband Bill,2107.76
+2026-01-14,Decathlon,4286.64
+2026-01-14,Metro Card Recharge,252.9
+2026-01-14,Airtel Postpaid,2424.26
+2026-01-15,Petrol Pump,423.53
+2026-01-15,Rapido,150.01
+2026-01-15,Swiggy,320.56
+2026-01-15,Subway,712.24
+2026-01-16,PVR Cinemas,1031.19
+2026-01-16,Street Food Stall,256.41
+2026-01-16,KFC,636.03
+2026-01-16,Petrol Pump,350.07
+2026-01-19,Rapido,188.82
+2026-01-20,PVR Cinemas,359.55
+2026-01-21,Water Bill,1711.96
+2026-01-21,PVR Cinemas,866.17
+2026-01-21,Flipkart,3922.86
+2026-01-22,Auto Rickshaw,364.41
+2026-01-23,Dominos,602.43
+2026-01-23,Amazon,4303.39
+2026-01-24,Chai Point,353.09
+2026-01-26,DTH Recharge,479.12
+2026-01-26,Gaming Cafe,671.56
+2026-01-26,Flipkart,7913.92
+2026-01-27,Big Bazaar Grocery,760.07
+2026-01-27,Salon,750.24
+2026-01-27,KFC,120.81
+2026-01-28,Local Tiffin Center,590.56
+2026-01-29,Swiggy,740.14
+2026-01-29,Reliance Trends,1478.22
+2026-01-30,Gas Cylinder Booking,340.2
+2026-01-30,Subway,413.09
+2026-01-31,Swiggy,784.9
+2026-01-31,Swiggy,887.95
+2026-02-01,Medical Store,1336.19
+2026-02-01,Auto Rickshaw,544.52
+2026-02-02,Rapido,348.44
+2026-02-05,Croma,609.99
+2026-02-06,Airtel Postpaid,1738.65
+2026-02-07,Gas Cylinder Booking,809.96
+2026-02-07,Petrol Pump,366.62
+2026-02-07,Broadband Bill,323.3
+2026-02-08,Auto Rickshaw,520.78
+2026-02-08,Big Bazaar Grocery,449.41
+2026-02-08,Subway,485.18
+2026-02-09,Flipkart,2392.21
+2026-02-09,Gas Cylinder Booking,1043.98
+2026-02-10,Auto Rickshaw,149.25
+2026-02-11,Ola,86.13
+2026-02-11,Subway,427.69
+2026-02-13,Subway,599.01
+2026-02-13,Big Bazaar Grocery,480.63
+2026-02-13,Zomato,690.56
+2026-02-13,Airtel Postpaid,355.66
+2026-02-14,Electricity Board,268.53
+2026-02-14,More Supermarket,279.97
+2026-02-14,IKEA,7896.62
+2026-02-16,IKEA,1144.3
+2026-02-16,Uber,468.2
+2026-02-16,Hotstar,630.09
+2026-02-17,PVR Cinemas,324.63
+2026-02-17,Jio Recharge,1561.16
+2026-02-20,Chai Point,358.23
+2026-02-20,Street Food Stall,765.54
+2026-02-20,PVR Cinemas,806.79
+2026-02-21,IRCTC,399.63
+2026-02-21,Petrol Pump,214.71
+2026-02-21,Gas Cylinder Booking,2120.78
+2026-02-22,Metro Card Recharge,536.27
+2026-02-23,PVR Cinemas,427.69
+2026-02-23,Spotify,582.23
+2026-02-23,Croma,6126.43
+2026-02-24,Spotify,1033.75
+2026-02-24,Flipkart,2397.08
+2026-02-24,IRCTC,117.39
+2026-02-25,McDonalds,519.75
+2026-02-25,IRCTC,90.42
+2026-02-25,Metro Card Recharge,252.16
+2026-02-26,Courier Service,992.27
+2026-02-26,More Supermarket,337.23
+2026-02-27,Starbucks,280.81
+2026-02-28,Gaming Cafe,1071.59
+2026-02-28,Uber,205.79
+2026-02-28,Jio Recharge,2283.62
+2026-03-01,Medical Store,2608.24
+2026-03-01,Swiggy,329.58
+2026-03-02,Jio Recharge,1346.26
+2026-03-02,Starbucks,657.31
+2026-03-02,Zomato,403.0
+2026-03-03,Reliance Trends,6326.29
+2026-03-03,IKEA,5614.26
+2026-03-04,BookMyShow,246.26
+2026-03-04,Big Bazaar Grocery,603.94
+2026-03-06,More Supermarket,856.42
+2026-03-06,Swiggy,533.75
+2026-03-06,DTH Recharge,1329.02
+2026-03-06,Donation,315.08
+2026-03-07,Courier Service,178.2
+2026-03-07,IKEA,7592.74
+2026-03-08,Electricity Board,351.22
+2026-03-09,Starbucks,347.91
+2026-03-09,Jio Recharge,573.17
+2026-03-10,Croma,4389.72
+2026-03-10,Street Food Stall,357.61
+2026-03-11,Spotify,961.31
+2026-03-11,Rapido,418.77
+2026-03-12,Broadband Bill,1686.58
+2026-03-12,Netflix,823.24
+2026-03-12,Gas Cylinder Booking,947.61
+2026-03-13,Croma,6003.14
+2026-03-13,Rapido,304.45
+2026-03-15,Subway,288.26
+2026-03-15,Water Bill,360.05
+2026-03-15,Swiggy,584.14
+2026-03-16,Metro Card Recharge,329.53
+2026-03-16,Courier Service,826.9
+2026-03-17,Uber,219.54
+2026-03-17,Reliance Trends,321.83
+2026-03-17,Dominos,289.89
+2026-03-18,DTH Recharge,1049.2
+2026-03-18,Myntra,955.89
+2026-03-18,PVR Cinemas,224.98
+2026-03-18,Metro Card Recharge,414.99
+2026-03-19,Uber,119.44
+2026-03-19,Ola,275.71
+2026-03-20,More Supermarket,628.96
+2026-03-20,Decathlon,816.93
+2026-03-20,Myntra,3164.5
+2026-03-20,KFC,670.92
+2026-03-21,Starbucks,357.62
+2026-03-22,Street Food Stall,145.69
+2026-03-22,Metro Card Recharge,436.95
+2026-03-22,IRCTC,305.44
+2026-03-23,Decathlon,4892.35
+2026-03-23,Decathlon,3765.54
+2026-03-23,Reliance Trends,5852.69
+2026-03-24,DTH Recharge,2321.6
+2026-03-24,Street Food Stall,200.83
+2026-03-25,ATM Withdrawal,1778.19
+2026-03-26,KFC,426.97
+2026-03-26,Reliance Trends,6066.97
+2026-03-26,Amazon,3463.61
+2026-03-26,Chai Point,264.89
+2026-03-27,Broadband Bill,1852.22
+2026-03-27,Myntra,3742.9
+2026-03-29,Jio Recharge,575.83
+2026-03-29,Reliance Trends,3842.75
+2026-03-30,DTH Recharge,1946.05
+2026-03-30,Chai Point,438.96
+2026-03-31,Airtel Postpaid,1133.97
+2026-03-31,Swiggy,188.08
+2026-03-31,Croma,3877.6
+2026-03-31,Reliance Trends,2026.66
+2026-04-03,Zomato,579.78
+2026-04-04,Flipkart,3631.16
+2026-04-06,Zomato,633.67
+2026-04-06,IRCTC,252.04
+2026-04-07,IRCTC,325.75
+2026-04-08,Subway,433.46
+2026-04-08,Decathlon,7968.96
+2026-04-09,More Supermarket,306.73
+2026-04-10,Rapido,90.44
+2026-04-11,Uber,571.88
+2026-04-12,Croma,4496.05
+2026-04-12,Chai Point,761.07
+2026-04-12,Metro Card Recharge,173.65
+2026-04-12,Medical Store,409.29
+2026-04-12,Water Bill,1350.18
+2026-04-13,Spotify,1130.04
+2026-04-13,Flipkart,6385.87
+2026-04-16,Street Food Stall,249.87
+2026-04-18,Flipkart,5593.73
+2026-04-19,Gaming Cafe,874.36
+2026-04-19,Rapido,237.19
+2026-04-19,Gas Cylinder Booking,2433.51
+2026-04-20,Broadband Bill,2351.68
+2026-04-20,Auto Rickshaw,317.45
+2026-04-20,Salon,2112.54
+2026-04-21,Flipkart,2829.91
+2026-04-21,Ola,277.6
+2026-04-22,KFC,101.76
+2026-04-22,Rapido,471.79
+2026-04-23,Rapido,495.19
+2026-04-23,IKEA,6216.01
+2026-04-23,Chai Point,504.73
+2026-04-23,Rapido,289.71
+2026-04-26,Swiggy,562.41
+2026-04-26,Flipkart,488.08
+2026-04-26,Decathlon,3768.96
+2026-04-26,Gaming Cafe,858.13
+2026-04-26,Gym Membership,323.78
+2026-04-27,Amazon,6885.95
+2026-04-27,Subway,238.37
+2026-04-27,Reliance Trends,3999.46
+2026-04-28,Electricity Board,363.28
+2026-04-28,DTH Recharge,1736.51
+2026-04-29,Ola,438.53
+2026-04-30,Gaming Cafe,769.28
+2026-04-30,Metro Card Recharge,536.33
+2026-05-01,Metro Card Recharge,185.42
+2026-05-01,Airtel Postpaid,2494.08
+2026-05-02,PVR Cinemas,1075.49
+2026-05-02,Courier Service,926.29
+2026-05-03,Myntra,4541.46
+2026-05-03,Jio Recharge,2168.83
+2026-05-04,Netflix,239.94
+2026-05-04,Croma,5781.19
+2026-05-04,Jio Recharge,1728.05
+2026-05-04,Local Tiffin Center,119.9
+2026-05-05,Starbucks,777.24
+2026-05-06,Courier Service,2564.24
+2026-05-07,Myntra,6196.77
+2026-05-08,Chai Point,168.64
+2026-05-08,Big Bazaar Grocery,577.18
+2026-05-09,Chai Point,237.92
+2026-05-10,Subway,236.7
+2026-05-11,IKEA,3882.45
+2026-05-12,BookMyShow,1165.75
+2026-05-14,Starbucks,111.37
+2026-05-14,Ola,300.08
+2026-05-15,Decathlon,7213.24
+2026-05-15,Gym Membership,1572.28
+2026-05-15,More Supermarket,532.38
+2026-05-16,BookMyShow,449.51
+2026-05-16,Airtel Postpaid,2282.27
+2026-05-16,Flipkart,2146.96
+2026-05-16,IKEA,4705.46
+2026-05-16,Jio Recharge,2401.88
+2026-05-17,Croma,5289.87
+2026-05-17,Myntra,1158.95
+2026-05-17,Airtel Postpaid,1207.67
+2026-05-17,Starbucks,656.21
+2026-05-18,Ola,506.9
+2026-05-21,Gas Cylinder Booking,1461.22
+2026-05-21,Airtel Postpaid,1366.87
+2026-05-21,Starbucks,583.83
+2026-05-22,Gas Cylinder Booking,2380.54
+2026-05-23,Metro Card Recharge,269.82
+2026-05-23,DTH Recharge,1186.96
+2026-05-23,Jio Recharge,2365.42
+2026-05-25,Decathlon,848.08
+2026-05-25,Auto Rickshaw,409.84
+2026-05-27,Flipkart,4974.4
+2026-05-27,Zomato,584.31
+2026-05-28,IRCTC,428.77
+2026-05-28,Flipkart,868.74
+2026-05-28,Airtel Postpaid,438.28
+2026-05-29,Uber,323.56
+2026-05-29,Swiggy,872.28
+2026-05-30,Airtel Postpaid,1155.63
+2026-05-31,Reliance Trends,7117.98
+2026-05-31,Uber,230.36
+2026-06-01,Dominos,327.86
+2026-06-01,Subway,404.56
+2026-06-01,Myntra,6492.59
+2026-06-01,Metro Card Recharge,444.71
+2026-06-02,Croma,1896.04
+2026-06-03,Auto Rickshaw,564.65
+2026-06-03,Broadband Bill,1139.3
+2026-06-03,Gaming Cafe,895.04
+2026-06-03,Uber,252.6
+2026-06-04,PVR Cinemas,952.37
+2026-06-04,Auto Rickshaw,494.04
+2026-06-06,Electricity Board,1602.15
+2026-06-08,Amazon,4762.72
+2026-06-08,Spotify,156.41
+2026-06-08,Uber,81.29
+2026-06-08,Broadband Bill,2020.82
+2026-06-09,Petrol Pump,407.43
+2026-06-09,Water Bill,1112.31
+2026-06-10,KFC,470.97
+2026-06-10,Big Bazaar Grocery,187.32
+2026-06-10,Jio Recharge,2409.2
+2026-06-11,More Supermarket,404.42
+2026-06-12,Medical Store,1876.69
+2026-06-13,Netflix,295.29
+2026-06-13,IKEA,2959.35
+2026-06-14,IRCTC,421.59
+2026-06-15,Electricity Board,410.05
+2026-06-15,Gaming Cafe,481.95
+2026-06-16,Metro Card Recharge,341.81
+2026-06-16,Reliance Trends,4890.92
+2026-06-17,PVR Cinemas,830.03
+2026-06-18,Zomato,872.85
+2026-06-18,Decathlon,3022.71
+2026-06-19,Netflix,1070.89
+2026-06-19,Broadband Bill,2150.44
+2026-06-19,IRCTC,199.0
+2026-06-19,BookMyShow,254.7
+2026-06-19,Local Tiffin Center,438.3
+2026-06-21,McDonalds,631.69
+2026-06-21,Zomato,537.53
+2026-06-21,Flipkart,594.93
+2026-06-22,Big Bazaar Grocery,159.31
+2026-06-22,Decathlon,2442.58
+2026-06-22,Reliance Trends,617.2
+2026-06-22,Gas Cylinder Booking,1424.38
+2026-06-23,Dominos,142.63
+2026-06-23,Amazon,6377.05
+2026-06-23,Airtel Postpaid,1936.42
+2026-06-24,McDonalds,864.91
+2026-06-24,Swiggy,287.03
+2026-06-24,Airtel Postpaid,2181.42
+2026-06-25,ATM Withdrawal,1563.19
+2026-06-26,DTH Recharge,299.94
+2026-06-26,Auto Rickshaw,348.89
+2026-06-26,Salon,1952.92
+2026-06-27,Broadband Bill,1052.31
+2026-06-27,Reliance Trends,4474.72
+2026-06-28,PVR Cinemas,538.0
+2026-06-28,Auto Rickshaw,404.99
+2026-06-28,BookMyShow,205.92
+2026-06-29,Petrol Pump,434.16
+2026-06-30,McDonalds,589.13
+2026-06-30,Water Bill,831.48
+2026-07-01,Chai Point,114.69
+2026-07-02,Myntra,2156.67
+2026-07-02,Netflix,1059.09
+2026-07-03,Starbucks,235.64
+2026-07-03,Flipkart,4834.17
+2026-07-05,Broadband Bill,359.98
+2026-07-05,Spotify,401.42
+2026-07-05,Subway,381.21
+2026-07-05,Zomato,279.52
+2026-07-05,Starbucks,227.82
+2026-07-06,Local Tiffin Center,251.8
+2026-07-07,Airtel Postpaid,2110.09
+2026-07-07,Metro Card Recharge,67.81
+2026-07-08,Metro Card Recharge,239.07
+2026-07-08,Croma,2318.64
+2026-07-09,More Supermarket,859.46
+2026-07-10,Reliance Trends,761.85
+2026-07-10,BookMyShow,579.21
+2026-07-10,Electricity Board,1836.22
+2026-07-11,Ola,342.14
+2026-07-11,Local Tiffin Center,843.28
+2026-07-14,Subway,644.29
+2026-07-14,Donation,2184.28
+2026-07-14,Subway,278.6
+2026-07-15,Petrol Pump,485.82
+2026-07-15,Jio Recharge,1344.63
+2026-07-15,Gas Cylinder Booking,880.51
+2026-07-15,Myntra,1134.26
+2026-07-16,Ola,131.16
+2026-07-16,BookMyShow,410.68
+2026-07-17,IRCTC,341.01
+2026-07-17,Chai Point,778.28
+2026-07-18,Salon,2267.22
+2026-07-20,Chai Point,849.16
+2026-07-21,Broadband Bill,262.33
+2026-07-21,Donation,2543.55
+2026-07-22,Street Food Stall,181.34
+2026-07-22,ATM Withdrawal,122.29
+2026-07-23,DTH Recharge,955.7
+2026-07-23,Courier Service,1160.75
+2026-07-23,Donation,1488.13
+2026-07-24,Ola,330.24
+2026-07-24,Decathlon,2910.58
+2026-07-24,Local Tiffin Center,502.28
+2026-07-25,McDonalds,828.77
+2026-07-25,Water Bill,2202.21
+2026-07-26,Reliance Trends,1280.12
+2026-07-26,Hotstar,716.98
+2026-07-26,IRCTC,78.14
+2026-07-27,IKEA,3898.9
+2026-07-27,Myntra,5412.49
+2026-07-27,Zomato,644.66
+2026-07-28,Donation,548.2
+2026-07-28,Zomato,458.39
+2026-07-28,Spotify,184.35
+2026-07-30,IKEA,5959.94
+2026-07-30,Chai Point,467.84
+2026-07-30,IKEA,4726.73
+2026-08-01,Big Bazaar Grocery,399.37
+2026-08-01,Auto Rickshaw,329.26
+2026-08-01,Dominos,724.94
+2026-08-01,IKEA,4067.97
+2026-08-03,Broadband Bill,1456.1
+2026-08-03,Broadband Bill,555.4
+2026-08-03,Ola,253.53
+2026-08-04,Decathlon,5515.35
+2026-08-04,Zomato,465.65
+2026-08-04,Broadband Bill,346.18
+2026-08-05,Auto Rickshaw,450.99
+2026-08-05,Gaming Cafe,204.02
+2026-08-05,Starbucks,274.86
+2026-08-06,Decathlon,6808.84
+2026-08-07,Electricity Board,373.06
+2026-08-07,Rapido,255.87
+2026-08-08,More Supermarket,229.02
+2026-08-08,Broadband Bill,1672.33
+2026-08-09,Big Bazaar Grocery,516.72
+2026-08-09,Starbucks,676.56
+2026-08-11,Swiggy,862.13
+2026-08-11,Auto Rickshaw,222.52
+2026-08-12,Water Bill,2428.83
+2026-08-12,McDonalds,749.7
+2026-08-13,BookMyShow,277.05
+2026-08-13,Swiggy,809.33
+2026-08-13,Gas Cylinder Booking,565.12
+2026-08-13,Zomato,273.52
+2026-08-14,More Supermarket,597.74
+2026-08-14,Rapido,477.97
+2026-08-15,KFC,891.83
+2026-08-15,PVR Cinemas,1196.79
+2026-08-15,Ola,465.22
+2026-08-18,Amazon,2565.61
+2026-08-18,Reliance Trends,4871.23
+2026-08-18,Reliance Trends,5251.04
+2026-08-18,McDonalds,333.76
+2026-08-19,Zomato,121.5
+2026-08-20,Gas Cylinder Booking,299.74
+2026-08-20,Chai Point,444.99
+2026-08-21,Water Bill,428.11
+2026-08-21,Petrol Pump,102.3
+2026-08-22,PVR Cinemas,1179.81
+2026-08-22,Dominos,416.18
+2026-08-23,Dominos,282.23
+2026-08-23,More Supermarket,569.33
+2026-08-23,McDonalds,115.92
+2026-08-24,Water Bill,381.24
+2026-08-24,Auto Rickshaw,487.44
+2026-08-24,Decathlon,1656.25
+2026-08-24,Spotify,723.59
+2026-08-26,Broadband Bill,1071.68
+2026-08-26,Spotify,831.7
+2026-08-27,Myntra,1288.18
+2026-08-28,Gym Membership,2287.04
+2026-08-28,Rapido,323.55
+2026-08-29,McDonalds,316.25
+2026-08-29,Rapido,226.58
+2026-08-29,PVR Cinemas,536.23
+2026-08-29,Uber,548.22
+2026-08-29,Swiggy,774.68
+2026-08-30,Flipkart,6143.08
+2026-08-30,Gaming Cafe,913.77
+2026-08-31,More Supermarket,742.15
+2026-08-31,Jio Recharge,1594.4
+2026-09-02,Zomato,408.58
+2026-09-02,Airtel Postpaid,2400.38
+2026-09-03,DTH Recharge,510.16
+2026-09-05,Auto Rickshaw,452.06
+2026-09-05,Gym Membership,1424.68
+2026-09-06,IKEA,4401.84
+2026-09-06,Auto Rickshaw,270.57
+2026-09-06,Subway,579.27
+2026-09-07,Starbucks,258.51
+2026-09-07,Netflix,798.33
+2026-09-07,Airtel Postpaid,304.46
+2026-09-08,Local Tiffin Center,601.18
+2026-09-08,BookMyShow,715.51
+2026-09-09,Dominos,779.32
+2026-09-10,McDonalds,807.55
+2026-09-11,Big Bazaar Grocery,747.12
+2026-09-13,DTH Recharge,318.71
+2026-09-15,Jio Recharge,2078.85
+2026-09-15,IRCTC,596.99
+2026-09-16,Metro Card Recharge,295.25
+2026-09-16,Metro Card Recharge,203.85
+2026-09-17,Jio Recharge,1060.0
+2026-09-17,Electricity Board,2154.02
+2026-09-17,Subway,475.4
+2026-09-17,Metro Card Recharge,354.87
+2026-09-19,KFC,235.86
+2026-09-19,Auto Rickshaw,454.78
+2026-09-20,Croma,1531.9
+2026-09-21,Auto Rickshaw,348.67
+2026-09-21,KFC,341.19
+2026-09-22,Spotify,238.07
+2026-09-23,Zomato,676.21
+2026-09-23,Netflix,413.14
+2026-09-24,Ola,201.03
+2026-09-24,Petrol Pump,580.21
+2026-09-25,Rapido,162.34
+2026-09-25,Salon,1886.15
+2026-09-26,Electricity Board,2115.05
+2026-09-26,Gas Cylinder Booking,1981.59
+2026-09-27,Subway,427.19
+2026-09-27,Local Tiffin Center,798.64
+2026-09-27,DTH Recharge,2473.16
